@@ -1,6 +1,6 @@
 # CRESCER-SCHOOL-WEBSITE
 
-A school website prototype connecting public course information with student and teacher portals.
+A final-year project for CRESCER Rotary, a São Paulo nonprofit that helps young people prepare for their first jobs. The team designed a responsive website to showcase the programme and attract donors and partner companies.
 
 > Academic design project. The original interface, report and presentation are in Portuguese.
 
@@ -10,9 +10,11 @@ A school website prototype connecting public course information with student and
 
 🎓 **Context**
 
-Fabio Luz Moraes Pedro, Guilherme Rodrigues Faria de Andrade and Thiago Pena Silverio designed this prototype in 2022 for the Systems Analysis and Development course at Centro Universitário Senac. The team explored how a student could find course materials and grades, and how a teacher could publish assignments.
+For their final project in Systems Analysis and Development at Centro Universitário Senac in 2022, Fabio Luz Moraes Pedro, Guilherme Rodrigues Faria de Andrade and Thiago Pena Silverio were asked to choose an existing nonprofit in São Paulo and create a digital portfolio for it. They chose CRESCER Rotary because of its work preparing young people for employment through free training.
 
-![Student portal prototype](Prototype/Student_Menu.png)
+The fundraising goal shaped the design brief. Prospective donors needed to understand what their support would fund, and employers needed a way to learn about the programme and get involved. The team proposed public pages about the organisation, its courses and activities, alongside portals where students could check grades and teachers could publish assignments.
+
+![Crescer School public home page prototype](Prototype/Home.png)
 
 📁 **Folders**
 
